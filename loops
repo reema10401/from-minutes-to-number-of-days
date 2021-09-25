@@ -1,0 +1,11 @@
+public class decisionmaking
+public static void main(strings[]args){
+int input;
+system.in.println("enter your marks");
+scanner = new system(in);
+input = s.nextInt();
+if(input>35)
+system.out.println("pass");
+else(input>35)
+system.out.println("fail");
+}
