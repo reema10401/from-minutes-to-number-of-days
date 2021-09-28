@@ -1,0 +1,11 @@
+public class Employee{
+public static void main(strings[] args){
+int name, year, address;
+Employee.obj1 = new Employee();
+system.out.println("enter the name of the employee:"+obj1.name);
+Employee.obj2 = new Employee();
+system.out.println("enter the year of joining of employee"+obj2.year);
+Employee.obj3 = new Employee();
+system.out.println("enter the address of employee"obj3.address);
+}
+}
