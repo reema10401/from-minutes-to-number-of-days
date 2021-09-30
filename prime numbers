@@ -1,0 +1,19 @@
+class Prinenumber{
+public static void main(string[] args){
+scanner sc= new scanner(system.in);
+system.out.println("please insert a value");
+int num= sc.nextInt();
+booleanisPrime=true;
+for(int i=3;i<num;i++){
+if(num%i==0){
+isPrime=false;
+break;
+}
+}
+if(isPrime){
+system.out.println(num+"is a prime number");
+}else{
+system.out.println(num+"is not a prime number")
+}
+}
+}
